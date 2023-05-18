@@ -1,0 +1,5 @@
+ano = int(input("manda ai o ano que tu nasceu: "))
+idade = 2023 - ano
+print(idade)
+idade50 = 2050 - ano
+print(idade50)
