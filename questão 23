@@ -1,0 +1,4 @@
+faces = int(input("Digite o numero de faces: "))
+aresta = int(input("Digite o numero de aresta: "))
+vertice = aresta + 2 - faces
+print("O numero de vertice é:", vertice)
