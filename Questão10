@@ -1,0 +1,4 @@
+ 
+nome = input("Digite seu nome: ")
+sex = input("Informe seu sexo: ")
+print(nome,",",sex)
