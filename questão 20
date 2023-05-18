@@ -1,0 +1,4 @@
+n = int(input("um numero: "))
+ante = n - 1
+suce = n + 1
+print(ante,",",suce)
