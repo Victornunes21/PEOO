@@ -1,0 +1,4 @@
+faces = 6
+arestas = 12 + 2
+vertice = arestas - faces
+print("O numero de vertices é igual á:", vertice)
