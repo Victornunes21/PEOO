@@ -1,0 +1,3 @@
+numero = int(input("faz a boa com um número ai: "))
+quadrd = numero ** 2
+print(quadrd)
