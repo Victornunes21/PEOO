@@ -1,0 +1,10 @@
+number1 = int(input("brow um número ai: "))
+number2 = int(input("eu também já não estou aguentando mais, mas manda so mais um ai: "))
+soma = number2 + number1
+subtraçao = number1 - number2
+mult = number1 * number2
+div = number1 / number2
+print("soma igual á:", soma)
+print("subtração igual á:", subtraçao)
+print("multiplicação igual á:", mult)
+print("Divisão igual á:", div)
