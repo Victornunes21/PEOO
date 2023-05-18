@@ -1,0 +1,8 @@
+n1 = int(input("Manda um primeiro número:"))
+n2 = int(input("Manda outro número:"))
+soma = n2 + n1
+subtraçao = n1 - n2
+mult = n1 * n2
+print("A soma de n2 + n1 é igual a:", soma)
+print("A subtração de n1 - n2 é igual a:", subtraçao)
+print("A multiplicação entre n1 * n2 é igual a:", mult)
