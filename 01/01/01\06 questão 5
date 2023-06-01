@@ -1,0 +1,6 @@
+N1 = int(input("Manda o primeiro número: "))
+N2 = int(input("Manda o segundo número:  "))
+if N1 % N2 == 0:
+    print("N1 é divisivel por N2!")
+else:
+    print("N1 não é divisivel por N2!")
