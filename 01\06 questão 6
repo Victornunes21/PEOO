@@ -1,0 +1,4 @@
+preco = float(input("Qual o preço do produto: "))
+desconto = float(input("De quanto sera o desconto aplicado nesse produto: "))
+novop = preco - (preco * desconto / 100)
+print(novop)
