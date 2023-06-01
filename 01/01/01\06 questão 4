@@ -1,0 +1,11 @@
+nota = float(input("Bixu, qual foi a tua nota: "))
+if nota == 9 or nota == 10:
+    print("A")
+if nota == 7 or nota == 8:
+    print("B")
+if nota == 5 or nota == 6:
+    print("C")
+if nota == 3 or nota == 4:
+    print("D")
+if nota <= 2:
+    print("E")
