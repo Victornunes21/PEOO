@@ -1,0 +1,4 @@
+distancia = float(input("Quantos km foi percorrido: "))
+taxa = float(input("Quanto é o valor da taxa: "))
+valorPago = distancia * taxa
+print("O valor a ser pago sera de", valorPago)
